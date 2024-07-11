@@ -18,7 +18,7 @@ Creating a program that provides users with access to two different financial ca
 
 1. Clone the repository:
 
-        git clone https://github.com/Mondiserh/Finance-Calculators.git
+        https://github.com/Mondiserh/Financial-calculator.git
         
 
 2. Open repository in VSCode
