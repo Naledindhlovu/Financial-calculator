@@ -1,4 +1,5 @@
-#The user  should be allowed to choose which calculation they want to do. 
+#The user  should be allowed to choose which calculation they want to do.
+#
 # The first output that the user sees when the program runs should look like this :
 import math
 print( "************************************************************************************************")
